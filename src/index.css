@@ -220,6 +220,7 @@ body {
 
 @media (min-width: 600px) {
   .main {
+      width: auto;
       justify-content: space-between;
       padding: 0;
   }

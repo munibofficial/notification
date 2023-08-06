@@ -218,9 +218,9 @@ body {
   color: hsl(219, 85%, 26%);
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
   .main {
-      width: auto;
+    width: auto;
       justify-content: space-between;
       padding: 0;
   }

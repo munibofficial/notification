@@ -14,7 +14,7 @@ import avatar8 from '../assets/images/avatar-anna-kim.webp';
 
 
 
-const NotificationPage = () => {s
+const NotificationPage = () => {
     const [notifications, setNotifications] = useState([
         { id: 1, avatar: avatar2 ,name: 'Mark Weber', content: 'reacted to your recent post', title: 'My first tournament today!', read: false },
         { id: 2, avatar: avatar1,name: 'Angela Gray', content: 'followed you', read: false },

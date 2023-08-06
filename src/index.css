@@ -46,6 +46,7 @@ a:hover {
 
 body {
   font-family: 'Plus Jakarta Sans', sans-serif;
+  color:hsl(219, 85%, 26%) ;
 
   margin: 0;
   display: flex;
